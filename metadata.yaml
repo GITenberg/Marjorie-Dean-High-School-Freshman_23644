@@ -1,0 +1,35 @@
+_repo: Marjorie-Dean-High-School-Freshman_23644
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chase, Josephine
+    aliases:
+    - Lester, Pauline
+    - Flower, Jessie Graham
+    - Thompson, Ames
+    - Gordon, Grace
+    deathdate: 1931
+    gutenberg_agent_id: '1598'
+    url: http://www.gutenberg.org/2009/agents/1598
+description: ''
+gutenberg_bookshelf:
+- Children's Book Series
+- School Stories
+gutenberg_issued: '2007-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23644'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'High school students -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Teenage girls -- Juvenile fiction'
+title: Marjorie Dean, High School Freshman
+url: http://www.gutenberg.org/ebooks/23644
